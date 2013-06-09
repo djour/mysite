@@ -17,7 +17,7 @@ website for the book:
 
 http://www.cs.ucl.ac.uk/staff/d.barber/brml/
 	
-Here is the motivation:
+Motivation from David:
 
 The BRMLtoolbox is provided to help readers see how mathematical models translate into actual MAT-
 LAB code. There are a large number of demos that a lecturer may wish to use or adapt to help illustrate

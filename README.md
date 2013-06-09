@@ -13,10 +13,12 @@ Book
 	publisher = {{Cambridge University Press}},
 	year = 2012}
 
-Website
+website for the book:
+
 http://www.cs.ucl.ac.uk/staff/d.barber/brml/
 	
 Here is the motivation:
+
 The BRMLtoolbox is provided to help readers see how mathematical models translate into actual MAT-
 LAB code. There are a large number of demos that a lecturer may wish to use or adapt to help illustrate
 the material. In addition many of the exercises make use of the code, helping the reader gain confidence
